@@ -157,28 +157,25 @@ student_performance_prediction/
 ## How to Run the Project Locally
 
 1. Clone the repository
+
 ```
-bash
 git clone <repository_url>
 cd student_performance_prediction
 ```
 
 2. Create Virtual environment
 ```
-bash
 python -m venv venv
 source venv/bin/activate
 ```
 
 3. Install the required dependencies
 ```
-bash
 pip install -r requirements.txt
 ```
 
 4. Run Streamlit app
 ```
-bash
 streamlit run app.py
 ```
 ---
