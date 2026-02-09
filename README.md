@@ -8,8 +8,6 @@ The project demonstrates a complete machine learning lifecycle, from data unders
 ---
 ## Live Demo
 The application is deployed using Streamlit Cloud.
-
-**Live App:**  
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://student-performance-prediction-codigoaprendiza.streamlit.app)
 
 ---
