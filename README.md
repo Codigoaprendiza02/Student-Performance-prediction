@@ -6,6 +6,13 @@ This project aims to predict a student’s exam performance based on academic ha
 The project demonstrates a complete machine learning lifecycle, from data understanding and analysis to model training, evaluation, and deployment.
 
 ---
+## Live Demo
+The application is deployed using Streamlit Cloud.
+
+**Live App:**  
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://student-performance-prediction-codigoaprendiza.streamlit.app)
+
+---
 
 ## Problem Statement
 Student academic performance is influenced by multiple factors such as study hours, attendance, prior academic history, family environment, motivation, and access to resources.  
@@ -192,6 +199,7 @@ streamlit run app.py
 This project demonstrates a complete machine learning workflow, including data analysis, feature engineering, model tuning, and deployment. It highlights how academic, lifestyle, and socio-economic factors jointly influence student performance and provides a practical tool for performance prediction.
 
 ---
+
 
 ## Author
 Riyanshi Verma | AI-ML Enthusiast
