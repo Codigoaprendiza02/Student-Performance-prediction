@@ -6,11 +6,6 @@ This project aims to predict a student’s exam performance based on academic ha
 The project demonstrates a complete machine learning lifecycle, from data understanding and analysis to model training, evaluation, and deployment.
 
 ---
-## Live Demo
-The application is deployed using Streamlit Cloud.
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://student-performance-prediction-codigoaprendiza.streamlit.app)
-
----
 
 ## Problem Statement
 Student academic performance is influenced by multiple factors such as study hours, attendance, prior academic history, family environment, motivation, and access to resources.  
@@ -45,6 +40,18 @@ The objective of this project is to build a predictive model that estimates a st
 
 ## Exploratory Data Analysis (EDA)
 The EDA phase focused on understanding data distribution, relationships between variables, and identifying patterns that influence student performance.
+
+## Plots & Visualizations
+
+All generated plots are available in the following directory:
+
+**[assets/plots](assets/plots/)**
+
+- Correlation heatmaps  
+- Feature importance plots  
+- Relationship visualization plots.  
+
+---
 
 ### Key Insights
 - Hours studied and previous academic performance have the strongest positive correlation with exam scores.
@@ -121,26 +128,40 @@ The final model and preprocessing steps were saved as a single pipeline and depl
 
 ---
 
+## Application User-Interfaces
+
+Below are screenshots of user interfaces demonstrating the workflow and outputs of the project.
+
+<img src="assets/screenshots/streamlit app1.png" width="300" />
+<img src="assets/screenshots/streamlit app2.png" width="300" />
+<img src="assets/screenshots/streamlit app3.png" width="300" />
+
+---
+
 ## Project Structure
 ```
 student_performance_prediction/
+├── .venv/                      # Virtual environment (local, not tracked)
+├── assets/
+│   ├── plots/                  # Generated EDA & model evaluation plots
+│   └── screenshots/            # Streamlit app user interfaces 
 │
-├── .venv/
 ├── data/
-│   ├── raw/
-│   ├── processed/
-│   └── data-dictionary.md
+│   ├── raw/                    # Original, unprocessed datasets
+│   ├── processed/              # Cleaned & feature-engineered datasets
+│   └── data-dictionary.md      # Description of dataset features
 │
 ├── notebooks/
-│   ├── data-understanding.ipynb
-│   ├── explorative data analysis.ipynb
-│   ├── model training.ipynb
+│   ├── data-understanding.ipynb # Data inspection & schema understanding
+│   ├── exploratory-data-analysis.ipynb # EDA & visualizations
+│   └── model-training.ipynb    # Model training & evaluation
 │
-├── app.py
-├── model.pkl
-├── README.md
-├── requirements.txt
-└── .gitignore
+├── app.py                      # Application / inference script
+├── model.pkl                   # Trained ML model
+├── requirements.txt            # Python dependencies
+├── runtime.txt                 # Runtime environment (deployment)
+├── README.md                   # Project documentation
+└── .gitignore                  # Ignored files & folders
 
 ```
 
@@ -200,4 +221,12 @@ This project demonstrates a complete machine learning workflow, including data a
 
 
 ## Author
-Riyanshi Verma | AI-ML Enthusiast
+
+**Riyanshi Verma**  
+AI/ML Enthusiast | Machine Learning & Data Science
+
+---
+
+© 2026 Riyanshi Verma. All rights reserved.
+
+
