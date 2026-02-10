@@ -2,7 +2,8 @@
 
 ### 1. Categorical Feature Analysis & Data Understanding
 
-1. **Parental Involvement**
+1. **Parental Involvement** \
+   
 | **Level** | **Count** | **Description** |
 |:---------:|:---------:|:---------------:|
 | Medium | 3362 | Parents are moderately involved in the student’s academic activities |
