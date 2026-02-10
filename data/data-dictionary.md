@@ -2,9 +2,8 @@
 
 ### 1. Categorical Feature Analysis & Data Understanding
 
----
-
 1. **Parental Involvement**
+   
 | **Level** | **Count** | **Description** |
 |:---------:|:---------:|:---------------:|
 | Medium | 3362 | Parents are moderately involved in the student’s academic activities |
@@ -14,6 +13,7 @@
 ---
 
 2.  **Access to Resources**
+
 | **Level** | **Count** | **Description** |
 |:---------:|:---------:|:---------------:|
 | Medium | 3319 | Student has average access to learning resources (books, devices, etc.) |
@@ -23,6 +23,7 @@
 ---
 
 3.  **Extracurricular Activities**
+
 | **Participation** | **Count** | **Description** |
 |:-----------------:|:---------:|:---------------:|
 | Yes | 3938 | Student participates in extracurricular activities |
@@ -31,6 +32,7 @@
 ---
 
 3. **Motivation Level**
+
 | **Level** | **Count** | **Description** |
 |:---------:|:---------:|:---------------:|
 | Medium | 3351 | Student shows moderate academic motivation |
@@ -40,6 +42,7 @@
 ---
 
 4.  **Internet Access**
+
 | **Access** | **Count** | **Description** |
 |:----------:|:---------:|:---------------:|
 | Yes | 6108 | Student has access to the internet at home |
@@ -48,6 +51,7 @@
 ---
 
 5.  **Family Income**
+
 | **Level** | **Count** | **Description** |
 |:---------:|:---------:|:---------------:|
 | Low | 2672 | Family has low household income |
@@ -57,6 +61,7 @@
 ---
 
 6.  **Teacher Quality**
+   
 | **Level** | **Count** | **Description** |
 |:---------:|:---------:|:---------------:|
 | Medium | 3925 | Student is taught by teachers of average quality |
@@ -66,6 +71,7 @@
 ---
 
 7.  **School Type**
+
 | **Type** | **Count** | **Description** |
 |:--------:|:---------:|:---------------:|
 | Public | 4598 | Student attends a government-funded public school |
@@ -74,6 +80,7 @@
 ---
 
 8. **Peer Influence**
+
 | **Influence** | **Count** | **Description** |
 |:-------------:|:---------:|:---------------:|
 | Positive | 2638 | Peers positively influence academic behavior |
@@ -83,6 +90,7 @@
 ---
 
 9. **Learning Disabilities**
+
 | **Status** | **Count** | **Description** |
 |:----------:|:---------:|:---------------:|
 | No | 5912 | Student has no reported learning disabilities |
@@ -91,6 +99,7 @@
 ---
 
 10.  **Parental Education Level**
+
 | **Level** | **Count** | **Description** |
 |:---------:|:---------:|:---------------:|
 | High School | 3223 | Highest parental education level is high school |
@@ -100,6 +109,7 @@
 ---
 
 11. **Distance from Home**
+
 | **Distance** | **Count** | **Description** |
 |:------------:|:---------:|:---------------:|
 | Near | 3884 | Student lives close to the school |
@@ -109,6 +119,7 @@
 ---
 
 12. **Gender**
+
 | **Gender** | **Count** | **Description** |
 |:----------:|:---------:|:---------------:|
 | Male | 3814 | Student identifies as male |
