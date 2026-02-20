@@ -7,6 +7,11 @@ The project demonstrates a complete machine learning lifecycle, from data unders
 
 ---
 
+## Live Demo : Student Performance Prediction App
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](YOUR_STREAMLIT_LINK_HERE)
+
+---
+
 ## Problem Statement
 Student academic performance is influenced by multiple factors such as study hours, attendance, prior academic history, family environment, motivation, and access to resources.  
 The objective of this project is to build a predictive model that estimates a student’s **exam score** based on these factors.
