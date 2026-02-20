@@ -8,7 +8,7 @@ The project demonstrates a complete machine learning lifecycle, from data unders
 ---
 
 ## Live Demo : Student Performance Prediction App
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](YOUR_STREAMLIT_LINK_HERE)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([YOUR_STREAMLIT_LINK_HERE](https://ai-powered-student-performance-prediction.streamlit.app/))
 
 ---
 
